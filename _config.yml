@@ -36,7 +36,7 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 staticmanUrl: https://dominicobrien.herokuapp.com/v2/entry/dominicobrien/dominicobrien.github.io/master/comments
-
+search: true
 include:
   - _pages
 
